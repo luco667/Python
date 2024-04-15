@@ -1,0 +1,9 @@
+def fct_sapin(a)
+	For i in range(a):
+		print(" "*(a-i)+"*"*(2*i+1))
+	print(" "*(a-1)+"#"+"*")
+
+def sapin(n)
+	for i in range(n):
+		print(" "*(n-i)+"*"*(2*i+1))
+	print(" "*(n-1)+"I"+"I")
